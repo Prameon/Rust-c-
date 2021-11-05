@@ -19,6 +19,10 @@ Oбновить Rust:
  ```
  $  rustup update stable
  ```
+Проверить версию Rust
+ ```
+ $ rustc --version
+ ```
 ---
 Учебники:
 
