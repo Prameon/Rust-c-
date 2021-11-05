@@ -354,7 +354,7 @@ let foo = func(1);
 ```
 Функция:
 ```rust
-fn func_print(x: i32) ->i32{
+fn func(x: i32) ->i32{
     let y = x + 1; //обрабатывает
     y //возвращает
 }
