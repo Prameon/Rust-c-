@@ -15,7 +15,7 @@
 
 Oбновить Rust:
  ```
- $  rustup update
+ $  rustup update stable
  ```
 ---
 Учебники:
