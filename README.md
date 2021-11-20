@@ -486,6 +486,15 @@ let resoult = a.pow(b);
 Аналогично для других типов. 
 
 ---
+Список методов, которые могут пригодится, при работе с числами. 
+
+- Возведение в степень  [i32::pow()](https://doc.rust-lang.org/std/primitive.i32.html#method.pow),
+[i64::pow()](https://doc.rust-lang.org/std/primitive.i64.html#method.pow), [f32::powf()](https://doc.rust-lang.org/std/primitive.f32.html#method.powf), [f64::powf()](https://doc.rust-lang.org/std/primitive.f64.html#method.powf)
+
+- Квадратный корень [f32::sqrt()](https://doc.rust-lang.org/std/primitive.f32.html#method.sqrt)
+[f64::sqrt()](https://doc.rust-lang.org/std/primitive.f64.html#method.sqrt)
+
+---
 ## `as` или преобразование числовых типов.
 Нельзя использовать разные типы - это ошибка. Даже если `i32` и `i64`.
 
