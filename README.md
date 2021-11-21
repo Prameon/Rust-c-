@@ -560,6 +560,7 @@ $$
 f = {1 \over 2l}{\sqrt{F \over pS}}
 $$
 
+![alt text](https://github.com/Prameon/Rust_from_the_start/blob/main/example/math_example/src/date/Tex2Img_1637483265.jpg)
 
 f — частота колебаний (Гц),
 l — длина струны (м),
