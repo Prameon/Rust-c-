@@ -1,6 +1,11 @@
 # Rust - Язык Программирования.
 *"Язык, позволяющий каждому создавать надёжное и эффективное программное обеспечение"*
 
+
+[Присоеденяйтесь на Discord](https://discord.gg/DgPFg73jmb)
+___
+
+
 ![alt text](https://www.rust-lang.org/static/images/rust-logo-blk.svg)
 
 версия rust 1.56.1.(1 Ноября 2021)
